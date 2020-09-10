@@ -17,3 +17,5 @@ In lib Folder their are all working files.
 5.Enter_event file
 
 => this is still half and I am working on it.
+
+NOTE: I release the apk of An Application on the Releases session . Install from there.
